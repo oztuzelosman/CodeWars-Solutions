@@ -10,4 +10,4 @@ function warnTheSheep(queue) {
   }
 }
 
-warnTheSheep(["wolf", "sheep", "sheep", "sheep", "sheep"]);
+warnTheSheep(["wolf", "sheep", "sheep", "sheep", "sheep", "sheep"]);
